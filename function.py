@@ -1,6 +1,6 @@
 import random
 
-chars = "qwertyuiop[]asdfghjkl;'zxcvbnm,./1234567890-=_+{}|:"
+chars = "qwertyuiop[]asdfghjkl;'zxcvbnm,./1234567890-=_+{}|!@#$%^&*(<>):"
 password = ""
 print("How long should the password be?")
 def ConsoleText():
